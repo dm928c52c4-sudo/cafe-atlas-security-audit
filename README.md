@@ -1,7 +1,7 @@
 # ☕ Café Atlas - Security Audit | Marrakech
 Ethical Hacking Lab - 100% Legal & Educational
 
-من مراكش، مشروع أمن سيبراني تعليمي - White Hat Hacker
+من مراكش، مشروع أمن سيبراني - White Hat Hacker
 
 ### القصة
 بنيت موقع لمقهى خيالي فمراكش ودرت ليه فحص أمني كامل بحال الشركات الكبيرة، ولكن فبيئة آمنة وقانونية 100% فالكمبيوتر ديالي.
